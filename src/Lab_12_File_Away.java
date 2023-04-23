@@ -48,7 +48,7 @@ public class Lab_12_File_Away {
         } catch (FileNotFoundException e) {
             System.out.println("File Not Found Error");
             e.printStackTrace();
-        } catch (IOException e) // code to handle this exception
+        } catch (IOException e) // code to handle this exceptions
         {
             System.out.println("IOException Error");
             e.printStackTrace();

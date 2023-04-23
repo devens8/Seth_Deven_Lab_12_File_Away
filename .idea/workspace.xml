@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cfaa941-3a56-416e-8ce8-7e551f5bff2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seth_Deven_Lab_12_File_Away.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_12_File_Away.java" afterDir="false" />
+    <list default="true" id="5cfaa941-3a56-416e-8ce8-7e551f5bff2d" name="Changes" comment="Lab Done">
+      <change beforePath="$PROJECT_DIR$/src/Lab_12_File_Away.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_12_File_Away.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +40,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681737581776</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab Done">
+      <created>1682267708286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682267708286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab Done" />
   </component>
 </project>
